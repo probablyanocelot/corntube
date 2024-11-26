@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pytube = "*"
+google-api-python-client = "*"
+discord = "*"
+"discord.py" = "*"
+pyaudio = "*"
+audioop-lts = "*"
+yt-dlp = "*"
+discord-py-slash-command = "*"
+discord-py-interactions = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.13"
